@@ -3,4 +3,4 @@
 
 ![Sonic is hacking your computer](https://i.imgur.com/xEWSOFx.png)
 
-To try it, press `Win + r`, paste `mshta https://thetechdoodle.github.io/sonic-hack-popup/demo.hta` and press enter
+To try it, press `Win + r`, paste `mshta https://techchrism.github.io/sonic-hack-popup/demo.hta` and press enter
